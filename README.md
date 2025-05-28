@@ -1,4 +1,4 @@
-# Run and deploy your AI Studio app
+# Basic User Authentication React app
 
 This contains everything you need to run your app locally.
 
