@@ -1,48 +1,14 @@
-# ReactJS - POPX User Authentication
+# Run and deploy your AI Studio app
 
-Welcome to the **POPX User Authentication** repository! This project is part of my ReactJS Development Internship at **Educase India**. It demonstrates the implementation of a robust user authentication system.
+This contains everything you need to run your app locally.
 
----
+## Run Locally
 
-## 🚀 Features
+**Prerequisites:**  Node.js
 
-- 🔒 **User Registration & Login**  
-  Simplified forms for seamless authentication workflows.
 
-- 🛡️ **Secure Authentication**  
-  Token-based methods ensure user data protection.
-
-- ⚡ **State Management**  
-  Efficiently managed with React Context API/Redux.
-
-- 🧹 **Clean & Modular Codebase**  
-  Organized structure adhering to React best practices.
-
----
-
-## 🛠️ Technologies Used
-
-- ReactJS  
-- React Context API/Redux  
-- JavaScript (ES6+)  
-- CSS/SCSS  
-
----
-
-## 🌱 Ideal For
-
-- Learning **ReactJS fundamentals**.  
-- Gaining hands-on experience in **user authentication workflows**.  
-- Exploring best practices for **clean and scalable React code**.  
-
----
-
-## 🤝 Contribute
-
-Feel free to fork this repo, create pull requests, or report issues. Your feedback and contributions are welcome!  
-
----
-
-Happy coding! 🚀
-**Bushra KM**
-2025
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

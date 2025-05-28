@@ -1,0 +1,5 @@
+{
+  "name": "PopX User Authentication",
+  "description": "A React application demonstrating a user authentication flow including landing, login, registration, and account settings pages, styled with Tailwind CSS.",
+  "requestFramePermissions": []
+}
